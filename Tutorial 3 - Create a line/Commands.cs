@@ -46,7 +46,6 @@ namespace Tutorial_3
                 //If you want to create a "real object" (instance) of a class, you need to use its constructor and fill in parameters it needs. (e.g just like fill concrete into framework)
                 //This process is called instantiation. It actually acquires a space in your RAM to store this object. 
 
-                //An object can be called "an instance of a class"
                 //Point3d has a constructor, which takes 3 double type values -- X, Y and Z.
                 //So we can create two instances of Point3d as follow:
 
